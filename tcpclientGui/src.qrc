@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new/icon/connect.png</file>
+        <file>new/icon/connected.png</file>
+        <file>new/icon/disconnect.png</file>
+        <file>new/icon/disconnected.png</file>
+        <file>new/icon/battery_empty_16.png</file>
+        <file>new/icon/battery_full_16.png</file>
+        <file>new/icon/car.png</file>
+        <file>new/icon/configuration.png</file>
+        <file>new/icon/document_properties.png</file>
+        <file>new/icon/history.png</file>
+        <file>new/icon/log.png</file>
+        <file>new/icon/logviewer.png</file>
+        <file>new/icon/counterclockwise-arrow.png</file>
+        <file>new/icon/navigate-left.png</file>
+        <file>new/icon/navigate-right.png</file>
+        <file>new/icon/search.png</file>
+        <file>new/icon/sign-in.png</file>
+        <file>new/icon/location40.png</file>
+        <file>new/icon/spam-2.png</file>
+    </qresource>
+</RCC>
